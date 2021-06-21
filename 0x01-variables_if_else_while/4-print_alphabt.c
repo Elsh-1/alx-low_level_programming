@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - entry block
- * Description: lowercase without q and e 
+ * Description: lowercase without q and e
  * Return: 0
  */
 int main(void)
