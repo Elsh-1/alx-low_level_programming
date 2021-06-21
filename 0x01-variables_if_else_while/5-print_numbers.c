@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
  * main - Entry block
- * Description: print single digit numbers 
+ * Description: print single digit numbers
  * Return: 0
  */
 int main(void)
