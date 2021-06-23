@@ -7,9 +7,11 @@
 
 void print_alphabet_x10(void)
 {
-	for (int x = 0; x <10; x++)
+	int x;
+	for (x = 0; x <10; x++)
 	{
-		for (int i = 0; i <26; i++)
+		int i;
+		for (i = 0; i <26; i++)
 		{
 			_putchar(97 + i); 
 		}
