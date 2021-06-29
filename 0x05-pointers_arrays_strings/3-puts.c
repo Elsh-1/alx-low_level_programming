@@ -1,4 +1,4 @@
-#include "holbeton.h"
+#include "holberton.h"
 /**
  * _puts - a function that prints a string
  * @str: string
