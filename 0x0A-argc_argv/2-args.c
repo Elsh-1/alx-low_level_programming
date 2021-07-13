@@ -7,7 +7,8 @@
  */
 int main(int argc , char const *argv[])
 {
-	for (int count = 0; count < argc; count++)
+	int count;
+	for (count = 0; count < argc; count++)
 	{
 		printf("%s\n", argv[count]);
 	}
