@@ -1,5 +1,4 @@
 #include <stdlib.h>
-#include "holberton.h"
 /**
  * main - creats an array of chars, and initializes it
  * @size: size
